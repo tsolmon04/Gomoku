@@ -30,3 +30,8 @@ The AI engine uses a simple algorithm to:
 - Identify immediate winning moves.  
 - Block the opponent's winning opportunities.  
 - Place stones strategically to maximize the chance of forming a winning sequence.  
+
+
+## Acknowledgments
+
+- All credit goes to the course instructor Michael Guerzhoy
