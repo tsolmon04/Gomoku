@@ -1,6 +1,6 @@
 # Gomoku AI Engine  
 
-This project is from ESC180 that implements a simple AI engine for the game **Gomoku**, a strategy game played on an 8×8 board. The AI simulates a competitive gameplay environment, allowing players to experience Gomoku in its standard form.  
+This project implements a simple AI engine for the game **Gomoku**, a strategy game played on an 8×8 board. The AI simulates a competitive gameplay environment, allowing players to experience Gomoku in its standard form.  
 
 ## About Gomoku  
 
@@ -34,4 +34,4 @@ The AI engine uses a simple algorithm to:
 
 ## Acknowledgments
 
-- All credit goes to the course instructor Michael Guerzhoy
+- All credit goes to Professor Michael Guerzhoy
